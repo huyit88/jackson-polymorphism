@@ -1,2 +1,3 @@
 # jackson-polymorphism
-POC
+POC: demo polymorphism with jackson deserialization
+
